@@ -1,0 +1,3 @@
+Identifying and Categorizing Offensive Language on Twitter
+
+Offensive language, hate speech and cyberbul-lying have become increasing more pervasivein social media. Individuals frequently take ad-vantage of the perceived anonymity on socialmedia platforms, to engage in brash and disre-spectful  behaviour  that  many  of  them  wouldnot  consider  in  real  life.The  goal  of  thisproject  is  to  use  a  hierarchical  model  to  notonly  identify  tweets/messages  with  offensivelanguage but categorize the type and the targetof offensive messages on social media.
