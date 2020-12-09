@@ -4,7 +4,7 @@ Offensive language, hate speech and cyberbullying have become increasing more pe
 
 # How To
 - Create virutal env and install dependencies
-```{python}
+```python
 conda create -n [ENV] python=3.7
 conda activate [ENV]
 pip install -r requirements.txt
