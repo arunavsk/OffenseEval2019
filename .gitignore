@@ -112,7 +112,10 @@ Untitled.ipynb
 Untitled1.ipynb
 
 # Data 
-data/
+data/glove6B
+data/gloveTwitter27B
+data/Hovy2016
+data/Thomas2017
 
 
 # Exceptions
